@@ -2,6 +2,9 @@
 
 A testing and analysis tool for BLDC motors using ESP32 and SimpleFOC. The project is under development.
 
+## Related Repositories
+- [BLDC_Tester_Hardware](https://github.com/ege-saygili/bldc-tester-hardware) - Hardware repository containing PCB designs and schematics
+
 ## Features
 - Automated motor parameter detection
 - Real-time motor monitoring via web interface
